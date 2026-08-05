@@ -55,3 +55,9 @@ merged-prs-*.csv
 
 # Weblate cache
 cli/weblate-cli/weblate-components-cache.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
